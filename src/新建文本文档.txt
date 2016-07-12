@@ -1,1 +1,0 @@
-tcc arm_elf.c dyn_main.c interface.c linker.c loader.c plt_res.c plt_lyr.c
